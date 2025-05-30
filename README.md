@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Lohan-debug
 
-<!--
-**Lohan-debug/Lohan-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner in programming, currently starting my learning journey. This GitHub profile will be the place where I share my progress and small projects as I learn more.
 
-Here are some ideas to get you started:
+## 🔭 What I’m working on:
+Not working on a specific project yet, but I'm exploring different areas in tech and coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Programming Basics
+- Git & GitHub
+- Arduino / Python (starting soon)
+
+## 🤝 I’m looking to collaborate on:
+Beginner-friendly projects, learning resources, or guided challenges.
+
+## 📫 How to reach me:
+(You can add your email or social links here if you want)
+
+---
+
+> 🙌 I'm still learning — happy to connect with anyone willing to guide or share knowledge!
